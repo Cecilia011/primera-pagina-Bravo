@@ -1,4 +1,4 @@
-# primera-pagina-Bravo
+# Primera-pagina-Bravo
 
 Este repositorio contiene el código fuente de la página web estática para la tienda de ropa **Bravo**. La página está diseñada para mostrar los productos de la tienda, ofrecer información sobre la misma y permitir a los clientes hacer pedidos directamente a través de WhatsApp. Este proyecto fue realizado en el bootcamp de Tecnolochicas Pro. 
 
